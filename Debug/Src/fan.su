@@ -1,0 +1,5 @@
+fan.c:17:6:fan_init	80	static
+fan.c:77:6:fan_1_stop	4	static
+fan.c:82:6:fan_1_run	16	static
+fan.c:87:6:fan_2_stop	4	static
+fan.c:92:6:fan_2_run	16	static
